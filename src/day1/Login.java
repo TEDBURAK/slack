@@ -5,5 +5,9 @@ public class Login {
         System.out.println("merhaba");
         
         // merhaba
+
+        // Today the weather is good
+        // Tomorrow  the weather will be better
+
     }
 }
